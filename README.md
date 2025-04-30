@@ -22,7 +22,7 @@ Le script yaml suivant est basé sur l'intégration AqaraPost créant 4 entités
 Vous devez copier ce code dans un nouveau script : Depuis le menu de navigation de HA, Paramètres -> Automatisations -> Scripts -> Créer un nouveau script. Passez l'éditeur en mode yaml (click cliquez sur les 3 petits points en haut à droite ouis choisissez Yaml) et faire un copié-collé de ce qui suit. ENREGISTRER !
 
 ```yaml
-alias: Controles PTZ Aqara Camera GH3
+alias: Camera G3H PTZ Controls
 fields:
   direction:
     name: direction
